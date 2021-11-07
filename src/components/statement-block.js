@@ -5,7 +5,7 @@ class statementBlock extends React.Component {
 
     render() {
         return(
-            <Draggable>
+            <Draggable className="statement-block">
                 <div>
                 <div>This readme is really dragging on...</div>
                 </div>
